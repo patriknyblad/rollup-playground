@@ -1,5 +1,5 @@
 {
-  "name": "basic-rollup",
+  "name": "preact-rollup",
   "version": "0.1.0",
   "description": "",
   "main": "dist/app.js",
