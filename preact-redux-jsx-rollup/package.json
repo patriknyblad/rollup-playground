@@ -1,10 +1,10 @@
 {
-  "name": "basic-rollup",
+  "name": "preact-redux-jsx-rollup",
   "version": "0.1.0",
   "description": "",
   "main": "dist/app.js",
   "scripts": {
-    "build": "NODE_ENV=production BABEL_ENV=production rollup -c rollup.config.js",
+    "build": "rollup -c rollup.config.js",
     "start": "watch 'npm run build' src",
     "server": "http-server -c-1 -p 8000 dist"
   },
