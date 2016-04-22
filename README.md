@@ -3,6 +3,7 @@
 This repository serves as a playground for rollup integrations. There are a few subfolders with example projects using rollup. Have a look around in the different folders to see some examples.
 
 ### Why?
+
 Well simply because I'm fairly new to ES6 and JS bundlers in general and wanted to practice setting up a few different projects with different purposes. Hopefully other people around me can find something useful here as well :)
 
 I'm from "camp native" but have not shied away from doing some JS from time to time but never building a full application from the ground up by myself in JS.
