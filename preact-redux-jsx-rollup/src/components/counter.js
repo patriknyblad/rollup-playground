@@ -1,7 +1,5 @@
 'use strict'
 
-import { h } from 'preact'
-
 const Counter = ({
   value,
   onIncrement,
