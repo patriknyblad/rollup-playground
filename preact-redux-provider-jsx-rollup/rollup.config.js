@@ -3,7 +3,6 @@ import nodeResolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
 import replace from 'rollup-plugin-replace';
 import alias from 'rollup-plugin-alias';
-import resolveAliases from 'rollup-plugin-resolve-aliases';
 
 export default {
 	entry: 'src/main.js', // Start compiling from here
